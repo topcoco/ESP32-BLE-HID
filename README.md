@@ -4,8 +4,8 @@ This library enables ESP32 development boards to function as Bluetooth HID devic
 ## Contact Me
 - QQ群: 710985269
 - QQ: 3560000009
-- 如果需要技术支持可以联系我，有HID视频课程并提供封装好的案例包含滑动、点击、home、back按键和android通信app的开发。
-- [HID课程介绍](https://mp.weixin.qq.com/s/x7gowGQS8V_vi8j-48mQxg)
+- 如果需要技术支持可以联系我，提供0基础HIDEsp32开发版制作视频课程并提供封装好的案例包含滑动、点击、home、back按键和android通信app的开发，无需学习也可以直接使用课程案例来实现android平台的免root、无障碍、adb的自动化测试脚本开发。
+- [HID课程介绍](https://mp.weixin.qq.com/s/IlLELe8EDxnfZWq-d5tzzQ)
 
 ## Installation
 - In the Arduino IDE go to "Sketch" -> "Include Library" -> "Add .ZIP Library..." and select the file you just downloaded.
